@@ -120,9 +120,5 @@ shimwa-design/
 |   |__ js/pages/          # Page-specific JavaScript
 |   |__ js/utils/          # Utility functions
 |   |__ css/fundamental/fundamental.css  # Fundamental CSS
-├── database/
-│   └── schema.sql         # Database schema definition
 │
 ├── README.md              # Project documentation
-├── LICENSE                # MIT License
-└── .gitignore            # Git ignore file
